@@ -1,0 +1,16 @@
+{
+	"name": "umi/authentication",
+    "description": "UMI.Framework Authentication package",
+	"type": "library",
+    "license": "BSD-3-Clause",
+	"minimum-stability": "stable",
+	"homepage": "http://umi-framework.ru/",
+	"autoload": {
+		"psr-4": {
+			"umi\\authentication": "."
+		}
+	},
+	"require": {
+		"php": ">=5.4.0",
+	}
+}
